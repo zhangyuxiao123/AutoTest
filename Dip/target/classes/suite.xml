@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="login">
+        <classes>
+            <class name="com.dip.ai.suite.suiteConfig"/>
+            <class name="com.dip.ai.suite.loginTest"/>
+        </classes>
+    </test>
+    <test name="pay">
+        <classes>
+            <class name="com.dip.ai.suite.suiteConfig"/>
+            <class name="com.dip.ai.suite.payTest"/>
+        </classes>
+    </test>
+
+</suite>
